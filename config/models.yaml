@@ -1,0 +1,12 @@
+models:
+  - name: google-bert/bert-base-uncased
+  - type: full
+
+  - name: FacebookAI/roberta-base
+  - type: full
+
+  - name: distilbert/distilbert-base-uncased
+  - type: distilled
+
+  - name: microsoft/MiniLM-L12-H384-uncased
+  - type: distilled
